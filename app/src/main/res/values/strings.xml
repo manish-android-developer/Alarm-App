@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Quokka Labs Alarm</string>
+    <string name="close">Close</string>
+    <string name="save_alarm">Save Alarm</string>
+</resources>
